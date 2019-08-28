@@ -1,0 +1,2 @@
+/Users/vijitvm/SummerDL/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/vijitvm/SummerDL/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
